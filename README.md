@@ -20,10 +20,17 @@ Explicação e divisão de informações do projeto.
 
 ---
 
+**Imagens - Pasta de Imagens utilizadas**
+
+Nessa pasta está anexado todas as imagens utilizadas nos projetos onde existem o redirecionamento dentro dos arquivos HTML.
+
+---
+
 ## 🛠️ Tecnologias utilizadas
 
 - 🌐 **HTML:** Pastas anexadas responsáveis pela organização e divisão do projeto em arquivos .HTML
-- 💻 **Visual Studio Code:** editor utilizado para escrever e organizar o código. (Executar mudanças e realizar commits)
-
+- 💻 **Visual Studio Code:** Editor utilizado para escrever e organizar o código. (Executar mudanças e realizar commits)
+- ❤️ **Java Script** Utilizado para realizar a mascara de formatação
+- 🖥️ **CSS** Uso exclusivo para entregar um visual agradável ao site criado.
 ---
 
