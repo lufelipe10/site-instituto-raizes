@@ -20,7 +20,7 @@ Explicação e divisão de informações do projeto.
 
 ---
 
-**Imagens - Pasta de Imagens utilizadas**
+📷 **Imagens - Pasta de Imagens utilizadas**
 
 Nessa pasta está anexado todas as imagens utilizadas nos projetos onde existem o redirecionamento dentro dos arquivos HTML.
 
