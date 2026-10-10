@@ -16,14 +16,14 @@ Uma página destinada ao preenchimento de informações do usuário, como nome, 
 
 💼 **`projetos.html` — Página de projetos**
 
-Espaço dedicado à apresentação de projetos, trabalhos e ideias desenvolvidas durante minha jornada de aprendizado.
+Explicação e divisão de informações do projeto.
 
 ---
 
 ## 🛠️ Tecnologias utilizadas
 
-- 🌐 **HTML:** responsável pela estrutura e organização das páginas.
-- 💻 **Visual Studio Code:** editor utilizado para escrever e organizar o código.
+- 🌐 **HTML:** Pastas anexadas responsáveis pela organização e divisão do projeto em arquivos .HTML
+- 💻 **Visual Studio Code:** editor utilizado para escrever e organizar o código. (Executar mudanças e realizar commits)
 
 ---
 
